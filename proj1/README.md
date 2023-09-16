@@ -116,29 +116,29 @@
 |Video|\-- |\--|
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others..., but nevertheless, here is a track record that everyone is contributing a lot)|| |
 |Number of commits|3 |162\. Ref: [https://github.com/deekay2310/calorieApp_server](https://github.com/deekay2310/calorieApp_server)|
-|Number of commits: by different people |3 |Commits by Dev: 36<br>Commits by Prakruthi: 38<br>Commits by Sunidhi: 26<br>Commits by Rohan: 18<br>Commits by Radhika: 9<br>Ref: [https://github.com/deekay2310/calorieApp_server/graphs/contributors](https://github.com/deekay2310/calorieApp_server/graphs/contributors) |
+|Number of commits: by different people |2 |Commits by Dev: 36<br>Commits by Prakruthi: 38<br>Commits by Sunidhi: 26<br>Commits by Rohan: 18<br>Commits by Radhika: 9<br>Ref: [https://github.com/deekay2310/calorieApp_server/graphs/contributors](https://github.com/deekay2310/calorieApp_server/graphs/contributors)<br>Commit ratio slightly skewed |
 |Issues reports: there are many |2 |4 open issues. Ref: [https://github.com/deekay2310/calorieApp_server/issues](https://github.com/deekay2310/calorieApp_server/issues) |
-|Issues are being closed|2 |Yes. 12 closed issues. Ref: [https://github.com/deekay2310/calorieApp_server/issues?q=is%3Aissue+is%3Aclosed](https://github.com/deekay2310/calorieApp_server/issues?q=is%3Aissue+is%3Aclosed) |
+|Issues are being closed|3 |Yes. 12 closed issues. Ref: [https://github.com/deekay2310/calorieApp_server/issues?q=is%3Aissue+is%3Aclosed](https://github.com/deekay2310/calorieApp_server/issues?q=is%3Aissue+is%3Aclosed) |
 |DOI badge: exists|3 |Exists. Ref: [https://github.com/deekay2310/calorieApp_server/blob/main/README.md](https://github.com/deekay2310/calorieApp_server/blob/main/README.md)|
-|Docs: doco generated, format not ugly|3 |Yes. Well formatted. Ref: [https://github.com/deekay2310/calorieApp_server](https://github.com/deekay2310/calorieApp_server) |
-|Docs: what: point descriptions of each class/function (in isolation) |3 |Present in repo. Ref: [https://github.com/deekay2310/calorieApp_server/blob/main/function_description.md](https://github.com/deekay2310/calorieApp_server/blob/main/function_description.md) |
-|Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|1.5 |Partial. No tutorials given. However, screenshot of page present. One demo video present, however it does not cover the entire functionality. Ref: [https://github.com/deekay2310/calorieApp_server#core-functionalities-of-the-application](https://github.com/deekay2310/calorieApp_server#core-functionalities-of-the-application)|
-|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|1.5 |Yes. A "why" section is present. No punchline or drive to install app. Ref: [https://github.com/deekay2310/calorieApp_server#why-use-burnout](https://github.com/deekay2310/calorieApp_server#why-use-burnout) |
-|Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|0 |Not present in repo. |
+|Docs: doco generated, format not ugly|1 |No generated documentation, however manual documentation is well formatted.|
+|Docs: what: point descriptions of each class/function (in isolation) |1 |Present in repo. Ref: [https://github.com/deekay2310/calorieApp_server/blob/main/function_description.md](https://github.com/deekay2310/calorieApp_server/blob/main/function_description.md) |
+|Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|2 |Partial. No tutorials given. However, screenshot of page present. One demo video present, however it does not cover the entire functionality. Ref: [https://github.com/deekay2310/calorieApp_server#core-functionalities-of-the-application](https://github.com/deekay2310/calorieApp_server#core-functionalities-of-the-application)|
+|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|2 |Yes. A "why" section is present. No punchline or drive to install app. Ref: [https://github.com/deekay2310/calorieApp_server#why-use-burnout](https://github.com/deekay2310/calorieApp_server#why-use-burnout) |
+|Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|2 |Video with walkthrough of functionality exists. |
 |Use of version control tools |3 |Yes. Github is used for codebase.|
 |Use of style checkers|3 |All Python code is linted with Pylint. Ref: [https://github.com/deekay2310/calorieApp_server/blob/main/.github/workflows/style_checker.yml](https://github.com/deekay2310/calorieApp_server/blob/main/.github/workflows/style_checker.yml) |
 |Use of code formatters.|3 |Yes. Used autopep8 Ref: [https://github.com/deekay2310/calorieApp_server/blob/main/.github/workflows/code_formatter.yml](https://github.com/deekay2310/calorieApp_server/blob/main/.github/workflows/code_formatter.yml) |
 |Use of syntax checkers.|3 |Yes. Ref: [https://github.com/deekay2310/calorieApp_server/blob/main/.github/workflows/syntax_checker.yml](https://github.com/deekay2310/calorieApp_server/blob/main/.github/workflows/syntax_checker.yml) |
 |Use of code coverage |3 |Yes. Ref: [https://github.com/deekay2310/calorieApp_server/blob/main/.github/workflows/code_cov.yml](https://github.com/deekay2310/calorieApp_server/blob/main/.github/workflows/code_cov.yml) |
 |Other automated analysis tools |0 |No |
-|Test cases exist |1.5 |Test cases exist and cover most use cases. Ref: [https://github.com/deekay2310/calorieApp_server/tree/main/tests](https://github.com/deekay2310/calorieApp_server/tree/main/tests) |
-|Test cases are routinely executed|2 |Test cases are executed everytime a build is complete. They however, do not have a regular schedule. Ref: [https://github.com/deekay2310/calorieApp_server/blob/main/.travis.yml](https://github.com/deekay2310/calorieApp_server/blob/main/.travis.yml) |
+|Test cases exist |1 |Few test cases exist and dont cover most use cases. (They are commented out as well) Ref: [https://github.com/deekay2310/calorieApp_server/tree/main/tests](https://github.com/deekay2310/calorieApp_server/tree/main/tests) |
+|Test cases are routinely executed|3 |Test cases are executed everytime a build is complete. They however, do not have a regular schedule. Ref: [https://github.com/deekay2310/calorieApp_server/blob/main/.travis.yml](https://github.com/deekay2310/calorieApp_server/blob/main/.travis.yml) |
 |The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up |3 |Yes. Ref: [https://github.com/deekay2310/calorieApp_server/blob/main/CONTRIBUTING.md](https://github.com/deekay2310/calorieApp_server/blob/main/CONTRIBUTING.md) |
-|Issues are discussed before they are closed|1.5 |Comments are present on each Issue. Additionally, they mention in their repo that issues were discussed in-person, on zoom and on whatsapp.|
-|Chat channel: exists || |
+|Issues are discussed before they are closed|2 |Comments are present on each Issue. Additionally, they mention in their repo that issues were discussed in-person, on zoom and on whatsapp.|
+|Chat channel: exists |2|They have documented using chat channels in project rubric 3 |
 |Test cases: a large proportion of the issues related to handling failing cases.|1 |No, most Issues opened are for enhancements or tagless. Ref: [https://github.com/deekay2310/calorieApp_server/issues?q=is%3Aissue+is%3Aclosed](https://github.com/deekay2310/calorieApp_server/issues?q=is%3Aissue+is%3Aclosed)|
 |Evidence that the whole team is using the same tools: everyone can get to all tools and files|3 |Acc to Ref: [https://github.com/deekay2310/calorieApp_server/blob/main/docs/proj3rubric.md](https://github.com/deekay2310/calorieApp_server/blob/main/docs/proj3rubric.md), team is using PyCharm, Github Desktop, etc |
-|Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|1.5 |Commits on the page mostly done by Prakruthi. Ref: [https://github.com/deekay2310/calorieApp_server/commits/main/.github/workflows](https://github.com/deekay2310/calorieApp_server/commits/main/.github/workflows)|
+|Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|2 |Commits on the page mostly done by Prakruthi. Ref: [https://github.com/deekay2310/calorieApp_server/commits/main/.github/workflows](https://github.com/deekay2310/calorieApp_server/commits/main/.github/workflows)|
 |Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|3 |Acc to Ref: [https://github.com/deekay2310/calorieApp_server/blob/main/docs/proj3rubric.md](https://github.com/deekay2310/calorieApp_server/blob/main/docs/proj3rubric.md), team is using PyCharm, Github Desktop, etc. Unsure if everyone is able to run the code.|
 |Evidence that the members of the team are working across multiple places in the code base|3 |Evidence is present in Github commit history.|
 |Short release cycles |2 |Hard to say. Only 2 releases made. Need more data to make a decision. Ref: [https://github.com/deekay2310/calorieApp_server/releases](https://github.com/deekay2310/calorieApp_server/releases)|
@@ -157,7 +157,7 @@
 |Is your documentation clearly available on your website or within your software? |Yes | |
 |Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use? |Yes | |
 |If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?|Not applicable| |
-|Do you provide a comprehensive guide to all your software’s commands, functions and options? || |
+|Do you provide a comprehensive guide to all your software’s commands, functions and options? |No| |
 |Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages? |No| |
 |If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation? |Not applicable| |
 |Do you store your documentation under revision control with your source code?|Yes | |
@@ -168,29 +168,29 @@
 |Are e-mails to your support e-mail address received by more than one person? |Not applicable| |
 |Does your project have a ticketing system to manage bug reports and feature requests?|Yes | |
 |Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?|Yes | |
-|Is your software’s architecture and design modular?|| |
-|Does your software use an accepted coding standard or convention?|| |
-|Does your software allow data to be imported and exported using open data formats? e.g. GIF, SVG, HTML, XML, tar, zip, CSV, JSON, NetCDF, or domain specific ones|| |
-|Does your software allow communications using open communications protocols? e.g. HTTP, FTP, XMPP, SOAP over HTTP, or domain-specific ones || |
+|Is your software’s architecture and design modular?| No | |
+|Does your software use an accepted coding standard or convention?|Yes| |
+|Does your software allow data to be imported and exported using open data formats? e.g. GIF, SVG, HTML, XML, tar, zip, CSV, JSON, NetCDF, or domain specific ones| Yes | |
+|Does your software allow communications using open communications protocols? e.g. HTTP, FTP, XMPP, SOAP over HTTP, or domain-specific ones |Yes| |
 |Is your software cross-platform compatible? e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can be used from within two or more of Internet Explorer, Chrome, Firefox and Safari? |Yes | |
 |Does your software adhere to appropriate accessibility conventions or standards? |No|Images do not have alternate text. |
 |Does your documentation adhere to appropriate accessibility conventions or standards?|No|Images do not have alternate text. Links do not have discernable text. |
 |Is your source code stored in a repository under revision control? |Yes | |
-|Is each source code release a snapshot of the repository?|| |
+|Is each source code release a snapshot of the repository?| Yes | |
 |Are releases tagged in the repository? |Yes | |
-|Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully) || |
-|Do you back-up your repository?|| |
+|Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully) |No| |
+|Do you back-up your repository?|Yes| |
 |Do you provide publicly-available instructions for building your software from the source code?|Yes | |
-|Can you build, or package, your software using an automated tool?|| |
+|Can you build, or package, your software using an automated tool?| Yes | |
 |Do you provide publicly-available instructions for deploying your software?|Yes | |
-|Does your documentation list all third-party dependencies? |Yes | |
+|Does your documentation list all third-party dependencies? |No | |
 |Does your documentation list the version number for all third-party dependencies?|No| |
 |Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional? |No| |
-|Can you download dependencies using a dependency management tool or package manager? || |
+|Can you download dependencies using a dependency management tool or package manager? |Yes| |
 |Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?|Yes | |
-|Do you have an automated test suite for your software? || |
+|Do you have an automated test suite for your software? |Yes| |
 |Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?|No| |
-|Do you use continuous integration, automatically running tests whenever changes are made to your source code?|| |
+|Do you use continuous integration, automatically running tests whenever changes are made to your source code?|Yes| |
 |Are your test results publicly visible?|Yes | |
 |Are all manually-run tests documented? |No| |
 |Does your project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software? e.g. release announcements, publications, workshops, conference presentations|No| |
@@ -200,11 +200,11 @@
 |Do you list your project's publications on your website or link to a resource where these are available? |No| |
 |Do you list third-party publications that refer to your software on your website or link to a resource where these are available?|No| |
 |Can users subscribe to notifications to changes to your source code repository?|Yes | |
-|If your software is developed as an open source project (and, not just a project developing open source software), do you have a governance model? || |
+|If your software is developed as an open source project (and, not just a project developing open source software), do you have a governance model? | Yes | |
 |Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project? |Yes | |
 |Do you have a contributions policy?|Yes | |
 |Is your contributions' policy publicly available?|Yes | |
-|Do contributors keep the copyright/IP of their contributions?|| |
+|Do contributors keep the copyright/IP of their contributions?|No| |
 |Does your website and documentation clearly state the copyright owners of your software and documentation? |No| |
 |Does each of your source code files include a copyright statement? |No| |
 |Does your website and documentation clearly state the licence of your software?|Yes | |
