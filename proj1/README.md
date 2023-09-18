@@ -115,7 +115,7 @@
 | Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?| No||
 | Do you make timely announcements of the deprecation of components, APIs, etc.?| No|
 
-- ### Calorie App
+- ### Burnout - Calorie App
 **Total Score:** 64/84
 
 |Notes|Score |Evidence/Comments/Links|
@@ -544,6 +544,6 @@
 |Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed? |N/A ||
 |Do you make timely announcements of the deprecation of components, APIs, etc.? |No|
 
-## Part II: Demo of Calorie App Project
+## Part II: Demo of Burnout - Calorie App Project
 
 Link to the video: https://drive.google.com/file/d/1J8nh0WvIkztzpFWnYy7VwP_Mgs9mGdn4/view?usp=sharing
