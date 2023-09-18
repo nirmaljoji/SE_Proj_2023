@@ -1,4 +1,5 @@
 # Project 1: Burnout - Calorie App
+The BurnOut application enables users to track their daily calorie balance, set weight goals, join fitness programs, and connect with friends for fitness motivation by monitoring their food intake and calorie expenditure. While setting up the project, we encountered multiple issues, which are listed below:
 
 ## OBSERVED PAIN POINTS
 **Missing documentation on configuring the chatbot**
