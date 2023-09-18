@@ -431,9 +431,11 @@
 
 - ### Units converter extension
 
+**Total Score:** 80/84
+
 |Notes|Score |Evidence/Comments/Links |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Video|\-- |\-- |
+|Video|3 |https://www.youtube.com/watch?v=rO0-Wf07vk0 |
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others..., but nevertheless, here is a track record that everyone is contributing a lot)|3 |Link : [https://github.com/NCSU-S/units_converter_extension/graphs/contributors<br>](https://github.com/NCSU-S/units_converter_extension/graphs/contributors)All team meber have been similar number of commits |
 |Number of commits|3 |106 commits ahead : [https://github.com/NCSU-S/units_converter_extension/compare/bhavesh242:units_converter_extension:master...master](https://github.com/NCSU-S/units_converter_extension/compare/bhavesh242:units_converter_extension:master...master)|
 |Number of commits: by different people |3 |Team member 1: 34<br>Team member 2: 27<br>Team member 3: 23<br>Team member 4: 22<br>|
@@ -444,26 +446,26 @@
 |Docs: what: point descriptions of each class/function (in isolation) |3 |Yes, example : [https://ncsu-s.github.io/units_converter_extension/Area.html](https://ncsu-s.github.io/units_converter_extension/Area.html) |
 |Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|3 |Example provided in document covers the main use of the extension |
 |Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|3 |Yes, Short, simple and staightforward with images to explain the uses quickly |
-|Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.||Video exists with explanation, However it is not hosted in the repo but on youtube. |
+|Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|2|Video exists with explanation, However it is not hosted in the repo but on youtube. |
 |Use of version control tools |3 |Yes, GIT is being used|
 |Use of style checkers|3 |Yes , Standard Js and Vscode plusigns are used for style check|
 |Use of code formatters.|3 |Beautify plugin used for code formatting. |
 |Use of syntax checkers.|3 |ESLint is being used for syntax checking|
 |Use of code coverage |3 |Yes, [https://github.com/NCSU-S/units_converter_extension](https://github.com/NCSU-S/units_converter_extension) |
-|Other automated analysis tools |||
+|Other automated analysis tools | 3 | Deepscan is used |
 |Test cases exist |3 |Yes, Example: [https://github.com/NCSU-S/units_converter_extension/blob/master/test/Currency_test.js](https://github.com/NCSU-S/units_converter_extension/blob/master/test/Currency_test.js)|
-|Test cases are routinely executed|||
-|The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up |1 |No|
+|Test cases are routinely executed| 1 | travis ci link throwing page not found |
+|The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up | 3 | Yes, https://github.com/NCSU-S/units_converter_extension/blob/master/CONTRIBUTING.md#how-can-i-contribute|
 |Issues are discussed before they are closed|1 |No|
-|Chat channel: exists |1 |No|
-|Test cases: a large proportion of the issues related to handling failing cases.|3 |Yes, [https://github.com/NCSU-S/units_converter_extension/blob/master/test/Area_test.js](https://github.com/NCSU-S/units_converter_extension/blob/master/test/Area_test.js) |
-|Evidence that the whole team is using the same tools: everyone can get to all tools and files|3 |3 |
-|Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|3 |[https://github.com/NCSU-S/units_converter_extension](https://github.com/NCSU-S/units_converter_extension)|
-|Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|3 ||
+|Chat channel: exists | 3 | Yes as per the previous project rubric|
+|Test cases: a large proportion of the issues related to handling failing cases.|3 |Yes, [https://github.com/NCSU-S/units_converter_extension/blob/master/test](https://github.com/NCSU-S/units_converter_extension/blob/master/test/) |
+|Evidence that the whole team is using the same tools: everyone can get to all tools and files|3 | Yes, mentioned in the previous project rubric |
+|Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|3 |Yes, has commits from multiple developers[https://github.com/NCSU-S/units_converter_extension/commits/master/package.json](https://github.com/NCSU-S/units_converter_extension/commits/master/package.json)|
+|Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|3 | Yes, mentioned in the previous rubric|
 |Evidence that the members of the team are working across multiple places in the code base|3 |Yes. Evidence in commit history. Ref: [https://github.com/bhavesh242/units_converter_extension/compare/master...NCSU-S:units_converter_extension:master](https://github.com/bhavesh242/units_converter_extension/compare/master...NCSU-S:units_converter_extension:master)|
 |Short release cycles |1 |Only 1 release made. Ref: [https://github.com/deekay2310/calorieApp_server/releases](https://github.com/deekay2310/calorieApp_server/releases)|
 | || |
-|ONLINE SUSTAINABILITY QUESTIONNAIRE|||
+|*ONLINE SUSTAINABILITY QUESTIONNAIRE*|||
 |Question |Answer||
 |Does your website and documentation clearly describe the type of user who should use your software?|Yes ||
 |Do you publish case studies to show how your software has been used by yourself and others?|No||
@@ -518,13 +520,13 @@
 |Do you list your important partners and collaborators on your website? |No||
 |Do you list your project's publications on your website or link to a resource where these are available? |N/A ||
 |Do you list third-party publications that refer to your software on your website or link to a resource where these are available?|N/A ||
-|Can users subscribe to notifications to changes to your source code repository?|No??|Maybe a gitub feature?|
+|Can users subscribe to notifications to changes to your source code repository?|Yes|Watch the repository on Github|
 |If your software is developed as an open source project (and, not just a project developing open source software), do you have a governance model? |Yes ||
 |Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project? |Yes ||
 |Do you have a contributions policy?|Yes ||
 |Is your contributions' policy publicly available?|Yes ||
-|Do contributors keep the copyright/IP of their contributions?|No??|MIT License |
-|Does your website and documentation clearly state the copyright owners of your software and documentation? |??|MIT License |
+|Do contributors keep the copyright/IP of their contributions?|No|MIT License |
+|Does your website and documentation clearly state the copyright owners of your software and documentation? |Yes|MIT License |
 |Does each of your source code files include a copyright statement? |No||
 |Does your website and documentation clearly state the licence of your software?|Yes ||
 |Is your software released under an open source licence?|Yes ||
