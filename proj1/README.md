@@ -24,7 +24,7 @@
 | Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z | 3 | Displayed in the Readme [https://github.com/secheaper/slashbot#readme](https://github.com/secheaper/slashbot#readme) |
 | Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing | 2 | readme : [https://github.com/secheaper/slashbot#readme](https://github.com/secheaper/slashbot#readme)|
 | Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code. | 1 | readme : [https://github.com/secheaper/slashbot#readme](https://github.com/secheaper/slashbot#readme)|
-| Use of version control tools| 3 | zenodo for backup and github for the codebase|
+| Use of version control tools| 3 | Github for the codebase|
 | Use of style checkers | 2 | config present in [pylintrc](https://github.com/secheaper/slashbot/blob/main/pylintrc) |
 | Use of code formatters. | 2 | config present in [pylintrc](https://github.com/secheaper/slashbot/blob/main/pylintrc) |
 | Use of syntax checkers. | 2 | config present in [pylintrc](https://github.com/secheaper/slashbot/blob/main/pylintrc) |
@@ -330,7 +330,7 @@
 |Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed? |No | |
 |Do you make timely announcements of the deprecation of components, APIs, etc.? |No |
 - ### ClassMateBot
-
+**Total Score:** 64/84
 |Notes|Score|Evidence/Comments/Links|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Video|3|Delta is not explained but functionality is covered, https://www.youtube.com/watch?v=U59HyX21S7k|
@@ -367,11 +367,11 @@
 |Question |Answer||
 |Does your website and documentation provide a clear, high-level overview of your software? | |Yes<br>[https://github.com/SE21-Team2/ClassMateBot](https://github.com/SE21-Team2/ClassMateBot)|
 |Does your website and documentation clearly describe the type of user who should use your software?| |Yes<br>[https://github.com/SE21-Team2/ClassMateBot#orange_book-description](https://github.com/SE21-Team2/ClassMateBot#orange_book-description)|
-|Do you publish case studies to show how your software has been used by yourself and others?| |Yes<br>[https://github.com/SE21-Team2/ClassMateBot#orange_book-description](https://github.com/SE21-Team2/ClassMateBot#orange_book-description)|
+|Do you publish case studies to show how your software has been used by yourself and others?| |No|
 |Is the name of your project/software unique? | |No |
-|Is your project/software name free from trademark violations?| |\- |
+|Is your project/software name free from trademark violations?| |Yes |
 |Is your software available as a package that can be deployed without building it?| |No, there is no description available for such case in documentation |
-|Is your software available for free? | |No, Heroku is paid from August, 2022 |
+|Is your software available for free? | |Yes |
 |Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository? | |Yes<br>[https://github.com/SE21-Team2/ClassMateBot](https://github.com/SE21-Team2/ClassMateBot)|
 |Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?| |Yes, on Github<br>[https://github.com/SE21-Team2/ClassMateBot](https://github.com/SE21-Team2/ClassMateBot) |
 |Is your documentation clearly available on your website or within your software? | |Yes<br>[https://github.com/SE21-Team2/ClassMateBot](https://github.com/SE21-Team2/ClassMateBot)|
@@ -379,59 +379,59 @@
 |If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?| |Yes<br>[https://github.com/SE21-Team2/ClassMateBot/blob/main/docs/installation.md](https://github.com/SE21-Team2/ClassMateBot/blob/main/docs/installation.md)|
 |Do you provide a comprehensive guide to all your software’s commands, functions and options? | |Yes<br>[https://github.com/SE21-Team2/ClassMateBot/tree/main#computer-commands](https://github.com/SE21-Team2/ClassMateBot/tree/main#computer-commands)|
 |Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages? | |No |
-|If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation? | |No |
+|If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation? | |Not Applicable |
 |Do you store your documentation under revision control with your source code?| |Yes<br>[https://github.com/War-Keeper/ClassMateBot/compare/main...SE21-Team2:ClassMateBot:main](https://github.com/War-Keeper/ClassMateBot/compare/main...SE21-Team2:ClassMateBot:main)|
 |Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation? | |No |
-|Does your software describe how a user can get help with using your software?| |Yes<br>[https://www.youtube.com/watch?v=U59HyX21S7k](https://www.youtube.com/watch?v=U59HyX21S7k)|
-|Does your website and documentation describe what support, if any, you provide to users and developers?| | |
+|Does your software describe how a user can get help with using your software?| |No|
+|Does your website and documentation describe what support, if any, you provide to users and developers?| |No |
 |Does your project have an e-mail address or forum that is solely for supporting users? | |No |
 |Are e-mails to your support e-mail address received by more than one person? | |No |
 |Does your project have a ticketing system to manage bug reports and feature requests?| |Yes<br>Example: [https://github.com/SE21-Team2/ClassMateBot/issues/39](https://github.com/SE21-Team2/ClassMateBot/issues/39) |
 |Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?| |Yes<br>Example: https://github.com/SE21-Team2/ClassMateBot/issues/39 |
-|Is your software’s architecture and design modular?| |Yes<br>Application is broken down into smaller, self-contained modules or components |
+|Is your software’s architecture and design modular?| |No |
 |Does your software use an accepted coding standard or convention?| |Yes|
 |Does your software allow data to be imported and exported using open data formats? e.g. GIF, SVG, HTML, XML, tar, zip, CSV, JSON, NetCDF, or domain specific ones| |No |
-|Does your software allow communications using open communications protocols? e.g. HTTP, FTP, XMPP, SOAP over HTTP, or domain-specific ones | | |
+|Does your software allow communications using open communications protocols? e.g. HTTP, FTP, XMPP, SOAP over HTTP, or domain-specific ones | |Yes|
 |Is your software cross-platform compatible? e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can be used from within two or more of Internet Explorer, Chrome, Firefox and Safari? | |Yes<br>Discord can run on any platform |
 |Does your software adhere to appropriate accessibility conventions or standards? | |Yes|
 |Does your documentation adhere to appropriate accessibility conventions or standards?| |Yes, code have appropriate videos/gifs, links and images which will be useful to all users |
 |Is your source code stored in a repository under revision control? | |Yes, github allows it|
-|Is each source code release a snapshot of the repository?| | |
-|Are releases tagged in the repository? | | |
+|Is each source code release a snapshot of the repository?| |Yes |
+|Are releases tagged in the repository? | |Yes |
 |Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully) | |Yes|
-|Do you back-up your repository?| | |
+|Do you back-up your repository?| |Yes |
 |Do you provide publicly-available instructions for building your software from the source code?| |Yes, [https://github.com/lyonva/ClassMateBot/blob/main/docs/installation.md](https://github.com/lyonva/ClassMateBot/blob/main/docs/installation.md)|
-|Can you build, or package, your software using an automated tool?| | |
+|Can you build, or package, your software using an automated tool?| |No |
 |Do you provide publicly-available instructions for deploying your software?| |Yes, [https://github.com/lyonva/ClassMateBot/blob/main/docs/installation.md](https://github.com/lyonva/ClassMateBot/blob/main/docs/installation.md)|
 |Does your documentation list all third-party dependencies? | |Yes,this application lists all third party dependencies. [https://github.com/lyonva/ClassMateBot/blob/main/docs/installation.md](https://github.com/lyonva/ClassMateBot/blob/main/docs/installation.md)|
 |Does your documentation list the version number for all third-party dependencies?| |No |
 |Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional? | |No |
-|Can you download dependencies using a dependency management tool or package manager? | |No |
-|Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?| | |
-|Do you have an automated test suite for your software? | | |
-|Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?| |Yes, [https://app.codecov.io/gh/lyonva/ClassMateBot](https://app.codecov.io/gh/lyonva/ClassMateBot)|
-|Do you use continuous integration, automatically running tests whenever changes are made to your source code?| | |
-|Are your test results publicly visible?| |Yes, For example: [https://github.com/lyonva/ClassMateBot/blob/main/test/test_bot.py](https://github.com/lyonva/ClassMateBot/blob/main/test/test_bot.py) |
-|Are all manually-run tests documented? | | |
+|Can you download dependencies using a dependency management tool or package manager? | |Yes |
+|Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?| |No |
+|Do you have an automated test suite for your software? | |No |
+|Do you have a framework to periodically (e.g. nightly) run your tests on the latest version of the source code?| |No|
+|Do you use continuous integration, automatically running tests whenever changes are made to your source code?| |No |
+|Are your test results publicly visible?| |No |
+|Are all manually-run tests documented? | |No |
 |Does your project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software? e.g. release announcements, publications, workshops, conference presentations| |No |
 |Does your website state how many projects and users are associated with your project?| |No |
 |Do you provide success stories on your website?| |No |
-|Do you list your important partners and collaborators on your website? | |No |
-|Do you list your project's publications on your website or link to a resource where these are available? | |No |
-|Do you list third-party publications that refer to your software on your website or link to a resource where these are available?| |No |
+|Do you list your important partners and collaborators on your website? | |Yes |
+|Do you list your project's publications on your website or link to a resource where these are available? | |Not Applicable |
+|Do you list third-party publications that refer to your software on your website or link to a resource where these are available?| |Not Applicable |
 |Can users subscribe to notifications to changes to your source code repository?| |Yes, in Git, users can subscribe to notifications or updates to changes made in a source code repository.|
-|If your software is developed as an open source project (and, not just a project developing open source software), do you have a governance model? | | |
-|Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project? | | |
-|Do you have a contributions policy?| |No |
-|Is your contributions' policy publicly available?| |No |
-|Do contributors keep the copyright/IP of their contributions?| | |
-|Does your website and documentation clearly state the copyright owners of your software and documentation? | | |
-|Does each of your source code files include a copyright statement? | | |
+|If your software is developed as an open source project (and, not just a project developing open source software), do you have a governance model? | |Yes |
+|Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project? | |Yes |
+|Do you have a contributions policy?| |Yes |
+|Is your contributions' policy publicly available?| |Yes |
+|Do contributors keep the copyright/IP of their contributions?| |No |
+|Does your website and documentation clearly state the copyright owners of your software and documentation? | |Yes |
+|Does each of your source code files include a copyright statement? | |Yes |
 |Does your website and documentation clearly state the licence of your software?| |Yes, [https://github.com/lyonva/ClassMateBot/blob/main/LICENSE](https://github.com/lyonva/ClassMateBot/blob/main/LICENSE)|
 |Is your software released under an open source licence?| |Yes, MIT license is open source software license |
-|Is your software released under an OSI-approved open-source licence? | | |
+|Is your software released under an OSI-approved open-source licence? | |Yes |
 |Does each of your source code files include a licence header?| |No |
-|Do you have a recommended citation for your software?| | |
+|Do you have a recommended citation for your software?| |Yes |
 |Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)? | |No |
 |Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed? | |No |
 |Do you make timely announcements of the deprecation of components, APIs, etc.? | |No |
@@ -546,4 +546,4 @@
 
 ## Part II: Demo of Burnout - Calorie App Project
 
-Link to the video: https://drive.google.com/file/d/1J8nh0WvIkztzpFWnYy7VwP_Mgs9mGdn4/view?usp=sharing
+Link to the video: https://drive.google.com/file/d/1PajBcpzQrn-8HkmXiE4gGOwHOHx9f7f9/view
