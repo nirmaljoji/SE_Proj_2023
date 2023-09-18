@@ -6,13 +6,13 @@
 | dmaurya  | Diksha Maurya      |
 | nsjoji   | Nirmal Sharon Joji |
 
-## Scorecards
+## Part I: Scorecards
 
 - ### Slash Bot
 **Total Score:** /84
 |Notes| Score | Evidence/Comments/Links |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Video | \-- | \--|
+| Video | 3 | Present. Ref: https://www.youtube.com/watch?v=NBihyIU13pw|
 | Workload is spread over the whole team (one team member is often Xtimes more productive than the others..., but nevertheless, here is a track record that everyone is contributing a lot) | 2 | Link: [https://github.com/secheaper/slashbot/graphs/contributors?from=2021-11-14&to=2021-12-12&type=c](https://github.com/secheaper/slashbot/graphs/contributors?from=2021-11-14&to=2021-12-12&type=c)<br>Team member 1: 38 commits<br>Team member 2: 26 commits<br>Team member 3: 24 commits<br>Team member 4: 12 commits<br>Team member 5: 10 commits<br><br>Although the number of commits are varied, the number of significant lines of code modified are similar |
 | Number of commits | 3 | 120 commits - [https://github.com/secheaper/slashbot](https://github.com/secheaper/slashbot) |
 | Number of commits: by different people| 2 | [https://github.com/secheaper/slashbot/graphs/contributors?from=2021-11-14&to=2021-12-12&type=c](https://github.com/secheaper/slashbot/graphs/contributors?from=2021-11-14&to=2021-12-12&type=c) |
@@ -41,6 +41,9 @@
 | Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) | \-- ||
 | Evidence that the members of the team are working across multiple places in the code base | 2 | commit history in github |
 | Short release cycles| 2 | 2 releases |
+| || |
+|ONLINE SUSTAINABILITY QUESTIONNAIRE|||
+|Question |Answer||
 | Does your website and documentation provide a clear, high-level overview of your software?| Yes | readme : [https://github.com/secheaper/slashbot#readme](https://github.com/secheaper/slashbot#readme)|
 | Does your website and documentation clearly describe the type of user who should use your software? | Yes | readme : [https://github.com/secheaper/slashbot#readme](https://github.com/secheaper/slashbot#readme)|
 | Do you publish case studies to show how your software has been used by yourself and others? | No | It shows how to use the software, however, its not a case study|
@@ -254,6 +257,8 @@
 |Evidence that the members of the team are working across multiple places in the code base|3|Git commit history, commits have been made to both backend and frontend from the memebers|
 |Short release cycles |3|Latest release is v3.0.4 and these have been released in short times itself: https://github.com/het-patel99/Recipe_Recommender/tags|
 | | | |
+|ONLINE SUSTAINABILITY QUESTIONNAIRE|||
+|Question |Answer||
 |Does your website and documentation provide a clear, high-level overview of your software? |Yes| |
 |Does your website and documentation clearly describe the type of user who should use your software?|Yes| |
 |Do you publish case studies to show how your software has been used by yourself and others?|No | |
@@ -358,6 +363,8 @@
 |Evidence that the members of the team are working across multiple places in the code base|2|[https://github.com/SE21-Team2/ClassMateBot/compare/main...lyonva:ClassMateBot:main](https://github.com/SE21-Team2/ClassMateBot/compare/main...lyonva:ClassMateBot:main) |
 |Short release cycles |3|Commits are found for almost everyday.[<br>](https://github.com/SE21-Team2/ClassMateBot/compare/main...lyonva:ClassMateBot:main)[https://github.com/SE21-Team2/ClassMateBot/compare/main...lyonva:ClassMateBot:main](https://github.com/SE21-Team2/ClassMateBot/compare/main...lyonva:ClassMateBot:main)n|
 | | | |
+|ONLINE SUSTAINABILITY QUESTIONNAIRE|||
+|Question |Answer||
 |Does your website and documentation provide a clear, high-level overview of your software? | |Yes<br>[https://github.com/SE21-Team2/ClassMateBot](https://github.com/SE21-Team2/ClassMateBot)|
 |Does your website and documentation clearly describe the type of user who should use your software?| |Yes<br>[https://github.com/SE21-Team2/ClassMateBot#orange_book-description](https://github.com/SE21-Team2/ClassMateBot#orange_book-description)|
 |Do you publish case studies to show how your software has been used by yourself and others?| |Yes<br>[https://github.com/SE21-Team2/ClassMateBot#orange_book-description](https://github.com/SE21-Team2/ClassMateBot#orange_book-description)|
@@ -534,3 +541,7 @@
 |Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)? |No||
 |Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed? |N/A ||
 |Do you make timely announcements of the deprecation of components, APIs, etc.? |No|
+
+## Part II: Demo 
+
+Link to the video: 
