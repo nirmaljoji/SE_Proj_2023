@@ -1,4 +1,4 @@
-# Project 1 - Burnout 
+# Project 1: Burnout - Calorie App
 
 ## OBSERVED PAIN POINTS
 **Missing documentation on configuring the chatbot**
