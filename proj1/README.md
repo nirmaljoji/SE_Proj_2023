@@ -361,7 +361,7 @@
 |Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|2 | has commits from most members |
 |Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)| 2 | Teams adheres to using pycharm and related dependencies mentioned in Requirement file |
 |Evidence that the members of the team are working across multiple places in the code base|2|[https://github.com/SE21-Team2/ClassMateBot/compare/main...lyonva:ClassMateBot:main](https://github.com/SE21-Team2/ClassMateBot/compare/main...lyonva:ClassMateBot:main) |
-|Short release cycles |1 | Only 1 version has been releases so far |
+|Short release cycles |1 | Only 1 version has been released so far |
 | | | |
 |ONLINE SUSTAINABILITY QUESTIONNAIRE|||
 |Question |Answer||
