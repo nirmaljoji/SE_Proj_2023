@@ -20,7 +20,7 @@
 | Issues are being closed | 3 | 3 open 14 closed |
 | DOI badge: exists | 3 | exists [https://zenodo.org/badge/latestdoi/431190543](https://zenodo.org/badge/latestdoi/431190543)|
 | Docs: doco generated, format not ugly | 2 | Hosted on github pages: [https://mtkumar123.github.io/MyDollarBot/](https://mtkumar123.github.io/MyDollarBot/) |
-| Docs: what: point descriptions of each class/function (in isolation)| 2 | Hosted on github pages: [https://mtkumar123.github.io/MyDollarBot/](https://mtkumar123.github.io/MyDollarBot/) However, this is a previous version of the docs and latest documentation has not been generated and updated with dertails on the new code added.|
+| Docs: what: point descriptions of each class/function (in isolation)| 2 | Hosted on github pages: [https://mtkumar123.github.io/MyDollarBot/](https://mtkumar123.github.io/MyDollarBot/) However, this is a previous version of the docs and latest documentation has not been generated and updated with details on the new code added.|
 | Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z | 3 | Displayed in the Readme [https://github.com/secheaper/slashbot#readme](https://github.com/secheaper/slashbot#readme) |
 | Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing | 2 | readme : [https://github.com/secheaper/slashbot#readme](https://github.com/secheaper/slashbot#readme)|
 | Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code. | 1 | readme : [https://github.com/secheaper/slashbot#readme](https://github.com/secheaper/slashbot#readme)|
@@ -542,6 +542,6 @@
 |Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed? |N/A ||
 |Do you make timely announcements of the deprecation of components, APIs, etc.? |No|
 
-## Part II: Demo 
+## Part II: Demo of Calorie App Project
 
-Link to the video: 
+Link to the video: https://drive.google.com/file/d/1J8nh0WvIkztzpFWnYy7VwP_Mgs9mGdn4/view?usp=sharing
