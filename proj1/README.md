@@ -223,39 +223,39 @@
 |Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed? |No| |
 |Do you make timely announcements of the deprecation of components, APIs, etc.? |No|
 
-- ### Recipe Recommender
-
+- ### STA(R) GEN (Recipe Recommender)
+**Total Score:** 66/84
 |Notes|Score|Evidence/Comments/Links|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Video|\--|\--|
+|Video|3|Present|
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot)|3|Link: [https://github.com/het-patel99/Recipe_Recommender/graphs/contributors](https://github.com/het-patel99/Recipe_Recommender/graphs/contributors)<br>The median number of 33 , the higher lines of code for certain members is not part of SLOC and is conitrbuted by the uploading the dataset |
 |Number of commits|3|197 commits : [https://github.com/PvPatel-1001/Recipe_Recommender/compare/master...het-patel99:Recipe_Recommender:master](https://github.com/PvPatel-1001/Recipe_Recommender/compare/master...het-patel99:Recipe_Recommender:master) |
 |Number of commits: by different people |3|Team member 1: 33<br>Team member 2: 35<br>Team member 3: 40<br>Team member 4: 30<br>Team member 5: 31|
-|Issues reports: there are many |3|26 issues created so far : [https://github.com/PvPatel-1001/Recipe_Recommender/issues?q=is%3Aissue](https://github.com/PvPatel-1001/Recipe_Recommender/issues?q=is%3Aissue)|
-|Issues are being closed|3|0 open issues, 26 Closes issues : [https://github.com/PvPatel-1001/Recipe_Recommender/issues?q=is%3Aissue+is%3Aclosed](https://github.com/PvPatel-1001/Recipe_Recommender/issues?q=is%3Aissue+is%3Aclosed) |
+|Issues reports: there are many |3|20 issues created so far : [https://github.com/het-patel99/Recipe_Recommender/issues?q=is%3Aissue](https://github.com/het-patel99/Recipe_Recommender/issues?q=is%3Aissue)|
+|Issues are being closed|3|0 open issues, 20 Closes issues : [https://github.com/het-patel99/Recipe_Recommender/issues?q=is%3Aissue+is%3Aclosed](https://github.com/het-patel99/Recipe_Recommender/issues?q=is%3Aissue+is%3Aclosed) |
 |DOI badge: exists|3|Written in the Readme : [https://zenodo.org/record/5739320](https://zenodo.org/record/5739320) |
-|Docs: doco generated, format not ugly|3|Document covers everything : [https://github.com/het-patel99/Recipe_Recommender](https://github.com/het-patel99/Recipe_Recommender)|
-|Docs: what: point descriptions of each class/function (in isolation) |3|Yes present for both frontend and backend : [https://github.com/PvPatel-1001/Recipe_Recommender/blob/master/docs/Recipe%20Recommender%20Source%20Documentation.pdf](https://github.com/PvPatel-1001/Recipe_Recommender/blob/master/docs/Recipe%20Recommender%20Source%20Documentation.pdf) |
-|Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|2|Yes video turorial is present on the readme file to test the happy workflow scenario : |
+|Docs: doco generated, format not ugly|2|Document covers everything : [https://github.com/het-patel99/Recipe_Recommender](https://github.com/het-patel99/Recipe_Recommender)|
+|Docs: what: point descriptions of each class/function (in isolation) |2|Yes present for both frontend and backend : [https://github.com/PvPatel-1001/Recipe_Recommender/blob/master/docs/Recipe%20Recommender%20Source%20Documentation.pdf](https://github.com/PvPatel-1001/Recipe_Recommender/blob/master/docs/Recipe%20Recommender%20Source%20Documentation.pdf) |
+|Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|1|Yes video turorial is present on the readme file to test the happy workflow scenario, however no documentation/imaes on different usecases |
 |Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|2|Yes, the use of graphics, taglines, short videos, gifs and quick explanations make users want to try this application. |
 |Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|3|Yes Video exists : [https://user-images.githubusercontent.com/43135408/143961045-e86b0aef-c4ca-41bd-b242-00cd7973038e.mp4](https://user-images.githubusercontent.com/43135408/143961045-e86b0aef-c4ca-41bd-b242-00cd7973038e.mp4)|
 |Use of version control tools |3|Yes, GIT is the VCS used here|
-|Use of style checkers|3|Style is maintained using Prettier , and this is enforced on Github actions, [https://github.com/PvPatel-1001/Recipe_Recommender/blob/master/.github/workflows/Style_Checker_and_Prettify_Code.yml](https://github.com/PvPatel-1001/Recipe_Recommender/blob/master/.github/workflows/Style_Checker_and_Prettify_Code.yml)|
-|Use of code formatters.|3|Code formatter is configured : [https://github.com/PvPatel-1001/Recipe_Recommender/blob/master/.github/workflows/codeFormatter.yml](https://github.com/PvPatel-1001/Recipe_Recommender/blob/master/.github/workflows/codeFormatter.yml)|
-|Use of syntax checkers.|3|Lint check is present viaESLint, a npm package : [https://github.com/PvPatel-1001/Recipe_Recommender/blob/master/.github/workflows/Code_Formatter_and_Syntax_Check.yml](https://github.com/PvPatel-1001/Recipe_Recommender/blob/master/.github/workflows/Code_Formatter_and_Syntax_Check.yml)|
+|Use of style checkers|3|Style is maintained using Prettier , and this is enforced on Github actions, [https://github.com/het-patel99/Recipe_Recommender/blob/master/.github/workflows/Style_Checker_and_Prettify_Code.yml](https://github.com/het-patel99/Recipe_Recommender/blob/master/.github/workflows/Style_Checker_and_Prettify_Code.yml)|
+|Use of code formatters.|3|Code formatter is configured : [https://github.com/het-patel99/Recipe_Recommender/blob/master/.github/workflows/codeFormatter.yml](https://github.com/het-patel99/Recipe_Recommender/blob/master/.github/workflows/codeFormatter.yml)|
+|Use of syntax checkers.|3|Lint check is present viaESLint, a npm package : [https://github.com/het-patel99/Recipe_Recommender/blob/master/.github/workflows/Code_Formatter_and_Syntax_Check.yml](https://github.com/het-patel99/Recipe_Recommender/blob/master/.github/workflows/Code_Formatter_and_Syntax_Check.yml)|
 |Use of code coverage |3|Config for running tests and uploading coverage exists and each PR has coverage report, the coverage link shows the coverage report as 100%|
-|Other automated analysis tools |1|No analysis tools have been configured |
+|Other automated analysis tools |0|No analysis tools have been configured |
 |Test cases exist |2|Test cases exists and cover the code : [https://github.com/het-patel99/Recipe_Recommender/tree/master/test](https://github.com/het-patel99/Recipe_Recommender/tree/master/test)|
 |Test cases are routinely executed|2|Travis has been configured : [https://github.com/het-patel99/Recipe_Recommender/blob/master/.travis.yml](https://github.com/het-patel99/Recipe_Recommender/blob/master/.travis.yml) , however there is no config on routinely running them.|
 |The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up |3|Well documented on how to contribute and maintain the repo : [https://github.com/PvPatel-1001/Recipe_Recommender/blob/master/CONTRIBUTING.md](https://github.com/PvPatel-1001/Recipe_Recommender/blob/master/CONTRIBUTING.md)|
-|Issues are discussed before they are closed|2|Some issues have discussions however many have been closes without much discussion |
-|Chat channel: exists | | |
+|Issues are discussed before they are closed|1|Some issues have discussions however many have been closes without much discussion |
+|Chat channel: exists | 0 | No indication to this on the repo |
 |Test cases: a large proportion of the issues related to handling failing cases.|2|There exists some issues that are opened to fix failing test case, example [https://github.com/PvPatel-1001/Recipe_Recommender/issues/17](https://github.com/PvPatel-1001/Recipe_Recommender/issues/17)|
-|Evidence that the whole team is using the same tools: everyone can get to all tools and files| | |
+|Evidence that the whole team is using the same tools: everyone can get to all tools and files| 2 | All tools used are mentioned in the repo and config files have been committed  |
 |Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|2|Most team members have contributed to the config file : [https://github.com/het-patel99/Recipe_Recommender/graphs/contributors](https://github.com/het-patel99/Recipe_Recommender/graphs/contributors) |
-|Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)| | |
-|Evidence that the members of the team are working across multiple places in the code base|3|Git commit history, commits have been made to both backend and frontend from the memebers|
-|Short release cycles |3|Latest release is v3.0.4 and these have been released in short times itself: https://github.com/het-patel99/Recipe_Recommender/tags|
+|Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)| 2 | |
+|Evidence that the members of the team are working across multiple places in the code base|2|Git commit history, commits have been made to both backend and frontend from the memebers|
+|Short release cycles |2|Latest release is v3.0.4 and these have been released in short times itself: https://github.com/het-patel99/Recipe_Recommender/tags|
 | | | |
 |ONLINE SUSTAINABILITY QUESTIONNAIRE|||
 |Question |Answer||
