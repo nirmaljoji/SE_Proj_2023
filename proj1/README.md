@@ -333,35 +333,35 @@
 
 |Notes|Score|Evidence/Comments/Links|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Video|\--|\--|
-|Workload is spread over the whole team (one team member is often Xtimes more productive than the others..., but nevertheless, here is a track record that everyone is contributing a lot)| |Link: [https://github.com/lyonva/ClassMateBot/graphs/contributors](https://github.com/lyonva/ClassMateBot/graphs/contributors) |
-|Number of commits|3|181 - [https://github.com/lyonva/ClassMateBot](https://github.com/lyonva/ClassMateBot) |
-|Number of commits: by different people |3|[https://github.com/lyonva/ClassMateBot/graphs/contributors](https://github.com/lyonva/ClassMateBot/graphs/contributors) |
+|Video|3|Delta is not explained but functionality is covered, https://www.youtube.com/watch?v=U59HyX21S7k|
+|Workload is spread over the whole team (one team member is often Xtimes more productive than the others..., but nevertheless, here is a track record that everyone is contributing a lot)| 2 | Commit ratios are slightly skeweed, Link: [https://github.com/lyonva/ClassMateBot/graphs/contributors](https://github.com/lyonva/ClassMateBot/graphs/contributors) |
+|Number of commits|3|  Total  181 commits made to project - [https://github.com/lyonva/ClassMateBot](https://github.com/lyonva/ClassMateBot) |
+|Number of commits: by different people |3|Team member 1: 43 <br>  Team member 2: 26 <br>  Team member 3: 20 <br>  Team member 4: 18 <br>  Team member 5: 16 <br>  Team member 6: 6 <br>[https://github.com/lyonva/ClassMateBot/graphs/contributors](https://github.com/lyonva/ClassMateBot/graphs/contributors) |
 |Issues reports: there are many |3|10 open, 12 closed<br>[https://github.com/lyonva/ClassMateBot/issues](https://github.com/lyonva/ClassMateBot/issues) |
-|Issues are being closed|3|10 open, 12 closed<br>[https://github.com/lyonva/ClassMateBot/issues](https://github.com/lyonva/ClassMateBot/issues) |
-|DOI badge: exists|3|Exists |
-|Docs: doco generated, format not ugly|3|<br>[https://github.com/lyonva/ClassMateBot/tree/main/docs](https://github.com/lyonva/ClassMateBot/tree/main/docs) |
+|Issues are being closed|2|10 open, 12 closed<br>[https://github.com/lyonva/ClassMateBot/issues](https://github.com/lyonva/ClassMateBot/issues) |
+|DOI badge: exists|3|Exists , https://zenodo.org/badge/latestdoi/427123166 |
+|Docs: doco generated, format not ugly|1| No generated documentation, but manual documentation covers all functions.<br>[https://github.com/lyonva/ClassMateBot/tree/main/docs](https://github.com/lyonva/ClassMateBot/tree/main/docs) |
 |Docs: what: point descriptions of each class/function (in isolation) |3|Every class/function has a proper description and is linked with docs.<br>[https://github.com/lyonva/ClassMateBot/blob/main/cogs/pinning.py](https://github.com/lyonva/ClassMateBot/blob/main/cogs/pinning.py) |
-|Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|3|[https://github.com/lyonva/ClassMateBot/blob/main/docs/Reminders/due_today.md](https://github.com/lyonva/ClassMateBot/blob/main/docs/Reminders/due_today.md) |
-|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|3|Documentation has a proper sub-topics such as about, location of code, code description and a gif showing proper working example.<br>[https://github.com/lyonva/ClassMateBot/blob/main/docs/Reminders/due_today.md](https://github.com/lyonva/ClassMateBot/blob/main/docs/Reminders/due_today.md)|
+|Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|3| Yes, they are covered in the readme |
+|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|3| Yes, covered in the readme|
 |Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|3|Every fuctionality has a gif attached.<br>https://github.com/lyonva/ClassMateBot/blob/main/docs/Reminders/due_today.md |
-|Use of version control tools |3|Github and zenodo<br>https://zenodo.org/record/5739450<br>[https://github.com/lyonva/ClassMateBot](https://github.com/lyonva/ClassMateBot) |
-|Use of style checkers|1|pylintrc<br>[https://github.com/mtkumar123/MyDollarBot/blob/main/pylintrc](https://github.com/mtkumar123/MyDollarBot/blob/main/pylintrc) |
-|Use of code formatters.|1|pylintrc[<br>](https://github.com/mtkumar123/MyDollarBot/blob/main/pylintrc)[https://github.com/mtkumar123/MyDollarBot/blob/main/pylintrc](https://github.com/mtkumar123/MyDollarBot/blob/main/pylintrc) |
-|Use of syntax checkers.|1|pylintrc<br>[https://github.com/mtkumar123/MyDollarBot/blob/main/pylintrc](https://github.com/mtkumar123/MyDollarBot/blob/main/pylintrc) |
-|Use of code coverage |1|[https://app.codecov.io/gh/lyonva/ClassMateBot](https://app.codecov.io/gh/lyonva/ClassMateBot) |
-|Other automated analysis tools | | |
-|Test cases exist |1|Not all functionality could be tested. Testing commands done through DMs was not possible, so what could be tested is limited in scope.<br>[https://github.com/lyonva/ClassMateBot/tree/main](https://github.com/lyonva/ClassMateBot/tree/main)|
-|Test cases are routinely executed|1| |
-|The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up |2|[https://github.com/lyonva/ClassMateBot/blob/main/CONTRIBUTING.md<br>](https://github.com/lyonva/ClassMateBot/blob/main/CONTRIBUTING.md)Some major cases are missing such as regarding deployment. |
-|Issues are discussed before they are closed|2| |
-|Chat channel: exists | | |
+|Use of version control tools |3| Github |
+|Use of style checkers|2|pylintrc<br>[https://github.com/lyonva/ClassMateBot/blob/8ab75f6d4f1c9ea51af1a0bd16327b82f0c587de/.pylintrc]|
+|Use of code formatters.|2|pylintrc <br> https://github.com/lyonva/ClassMateBot/blob/8ab75f6d4f1c9ea51af1a0bd16327b82f0c587de/.pylintrc] |
+|Use of syntax checkers.|2 |pylintrc<br> [https://github.com/lyonva/ClassMateBot/blob/8ab75f6d4f1c9ea51af1a0bd16327b82f0c587de/.pylintrc] |
+|Use of code coverage |1|[ https://app.codecov.io/gh/lyonva/ClassMateBot](https://app.codecov.io/gh/lyonva/ClassMateBot) |
+|Other automated analysis tools | 0 | No analysis tools have been configured |
+|Test cases exist |1|Not all functionality was tested. Since it is a Discord bot what could be tested is limited in scope.<br>[https://github.com/lyonva/ClassMateBot/tree/main](https://github.com/lyonva/ClassMateBot/tree/main)|
+|Test cases are routinely executed| 2 | Test cases are executed on push but not routinely|
+|The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up |3|[https://github.com/lyonva/ClassMateBot/blob/main/CONTRIBUTING.md<br>](https://github.com/lyonva/ClassMateBot/blob/main/CONTRIBUTING.md) |
+|Issues are discussed before they are closed|2| Some issues do have updates: https://github.com/lyonva/ClassMateBot/issues?q=is%3Aissue+is%3Aclosed  |
+|Chat channel: exists | 3 | Mentioned in previous rubric|
 |Test cases: a large proportion of the issues related to handling failing cases.|1|[https://github.com/lyonva/ClassMateBot/issues](https://github.com/lyonva/ClassMateBot/issues) |
-|Evidence that the whole team is using the same tools: everyone can get to all tools and files|3|[https://github.com/lyonva/ClassMateBot<br>](https://github.com/lyonva/ClassMateBot)All the tools are clearly mentioned in Git and also in instruction file|
-|Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|3|Upddated by a lot of different people in the same time period.<br>[https://github.com/lyonva/ClassMateBot/graphs/contributors](https://github.com/lyonva/ClassMateBot/graphs/contributors) |
-|Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)| | |
+|Evidence that the whole team is using the same tools: everyone can get to all tools and files|3|[https://github.com/lyonva/ClassMateBot<br>](https://github.com/lyonva/ClassMateBot)  Requiremnent file and setup file mentions all the tools required |
+|Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|2 | has commits from most members |
+|Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)| 2 | Teams adheres to using pycharm and related dependencies mentioned in Requirement file |
 |Evidence that the members of the team are working across multiple places in the code base|2|[https://github.com/SE21-Team2/ClassMateBot/compare/main...lyonva:ClassMateBot:main](https://github.com/SE21-Team2/ClassMateBot/compare/main...lyonva:ClassMateBot:main) |
-|Short release cycles |3|Commits are found for almost everyday.[<br>](https://github.com/SE21-Team2/ClassMateBot/compare/main...lyonva:ClassMateBot:main)[https://github.com/SE21-Team2/ClassMateBot/compare/main...lyonva:ClassMateBot:main](https://github.com/SE21-Team2/ClassMateBot/compare/main...lyonva:ClassMateBot:main)n|
+|Short release cycles |1 | Only 1 version has been releases so far |
 | | | |
 |ONLINE SUSTAINABILITY QUESTIONNAIRE|||
 |Question |Answer||
