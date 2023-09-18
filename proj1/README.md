@@ -9,7 +9,7 @@
 ## Part I: Scorecards
 
 - ### Slash Bot
-**Total Score:** /84
+**Total Score:** 69/84
 |Notes| Score | Evidence/Comments/Links |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Video | 3 | Present. Ref: https://www.youtube.com/watch?v=NBihyIU13pw|
@@ -38,16 +38,16 @@
 | Test cases: a large proportion of the issues related to handling failing cases. | 2 | Many closed issues are related to test cases |
 | Evidence that the whole team is using the same tools: everyone can get to all tools and files | 3 | Common config files and shared secrets show that they used the same tools|
 | Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people) | 3 | Common config files and shared secrets show that they used the same tools|
-| Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) | \-- ||
-| Evidence that the members of the team are working across multiple places in the code base | 2 | commit history in github |
-| Short release cycles| 2 | 2 releases |
+| Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer) | 3 | According to Project2 rubric mentioned in the Team's repo, "Everyone has a working instance of the project locally. All the team members are using the same IDE and have all the required packages installed." Ref: https://github.com/secheaper/slashbot/blob/main/docs/proj2rubric.md |
+| Evidence that the members of the team are working across multiple places in the code base | 2 | Commit history in github. Ref: https://github.com/mtkumar123/MyDollarBot/compare/main...secheaper:slashbot:main |
+| Short release cycles| 2 | Hard to say in short time frame. Two releases have been made. |
 | || |
 |ONLINE SUSTAINABILITY QUESTIONNAIRE|||
 |Question |Answer||
 | Does your website and documentation provide a clear, high-level overview of your software?| Yes | readme : [https://github.com/secheaper/slashbot#readme](https://github.com/secheaper/slashbot#readme)|
 | Does your website and documentation clearly describe the type of user who should use your software? | Yes | readme : [https://github.com/secheaper/slashbot#readme](https://github.com/secheaper/slashbot#readme)|
 | Do you publish case studies to show how your software has been used by yourself and others? | No | It shows how to use the software, however, its not a case study|
-| Is the name of your project/software unique?| Yes | Searching online shows Dollar bot is a common name, but my dollar bot is surprisingly unique |
+| Is the name of your project/software unique?| Yes | Searching online shows Dollar bot is a common name, but 'My dollar bot' is surprisingly unique |
 | Is your project/software name free from trademark violations? | Yes ||
 | Is your software available as a package that can be deployed without building it? | Yes | Yes, its a python script that can just be deployed |
 | Is your software available for free?| Yes ||
@@ -55,25 +55,25 @@
 | Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)? | Yes | Github |
 | Is your documentation clearly available on your website or within your software?| Yes | Yes|
 | Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?| Yes | The readme in the github page gives an example of quickstart for users. However, there is no quickstart for developers |
-| If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software? | Yes | yes|
+| If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software? | Yes | |
 | Do you provide a comprehensive guide to all your software’s commands, functions and options?| Yes | Gifs for bot actions and documentation for all methods/functions |
-| Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?| No| no |
+| Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?| No| |
 | If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?| Yes | While it is not currently packaged/formatted to be used as a library, the methods can be used and do have documentation|
 | Do you store your documentation under revision control with your source code? | Yes ||
-| Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?| No| Yes, displayed on github |
+| Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?| No| Yes, displayed on Github |
 | Does your software describe how a user can get help with using your software? | Yes ||
 | Does your website and documentation describe what support, if any, you provide to users and developers? | Yes ||
 | Does your project have an e-mail address or forum that is solely for supporting users?| Yes ||
 | Are e-mails to your support e-mail address received by more than one person?| Yes ||
 | Does your project have a ticketing system to manage bug reports and feature requests? | Yes ||
 | Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests? | Yes ||
-| Is your software’s architecture and design modular? | ??? | Kind of. Not very. Room for lot of improvement |
-| Does your software use an accepted coding standard or convention? | ??? | Single file python bot script ? :( |
+| Is your software’s architecture and design modular? | No |  |
+| Does your software use an accepted coding standard or convention? | No |  |
 | Does your software allow data to be imported and exported using open data formats? e.g. GIF, SVG, HTML, XML, tar, zip, CSV, JSON, NetCDF, or domain specific ones | Yes ||
 | Does your software allow communications using open communications protocols? e.g. HTTP, FTP, XMPP, SOAP over HTTP, or domain-specific ones| Not applicable| Bot using telegram's APIs which are most likely over open communication protocols|
 | Is your software cross-platform compatible? e.g. does it run under two or more of Windows, Unix/Linux and Mac OS X, or can be used from within two or more of Internet Explorer, Chrome, Firefox and Safari?| Yes ||
 | Does your software adhere to appropriate accessibility conventions or standards?| Not applicable| No accessibility features implemented. However, it is only a bot for telegram, so it might work with telegram's accessibility features (if any)|
-| Does your documentation adhere to appropriate accessibility conventions or standards? | ??? ||
+| Does your documentation adhere to appropriate accessibility conventions or standards? | No | No Alt Text, Video description text|
 | Is your source code stored in a repository under revision control?| Yes ||
 | Is each source code release a snapshot of the repository? | Yes ||
 | Are releases tagged in the repository?| Yes ||
@@ -92,19 +92,19 @@
 | Do you use continuous integration, automatically running tests whenever changes are made to your source code? | No||
 | Are your test results publicly visible? | No||
 | Are all manually-run tests documented?| Not applicable||
-| Does your project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software? e.g. release announcements, publications, workshops, conference presentations | no||
+| Does your project have resources (e.g. blog, Twitter, RSS feed, Facebook page, wiki, mailing list) that are regularly updated with information about your software? e.g. release announcements, publications, workshops, conference presentations | No||
 | Does your website state how many projects and users are associated with your project? | Yes ||
 | Do you provide success stories on your website? | No||
 | Do you list your important partners and collaborators on your website?| Yes ||
-| Do you list your project's publications on your website or link to a resource where these are available?| No/NA ||
-| Do you list third-party publications that refer to your software on your website or link to a resource where these are available? | No/NA ||
-| Can users subscribe to notifications to changes to your source code repository? | No? GH feature? ||
+| Do you list your project's publications on your website or link to a resource where these are available?| Not Applicable ||
+| Do you list third-party publications that refer to your software on your website or link to a resource where these are available? | Not Applicable ||
+| Can users subscribe to notifications to changes to your source code repository? | Yes ||
 | If your software is developed as an open source project (and, not just a project developing open source software), do you have a governance model?| Yes ||
-| Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project?| No||
+| Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project?| Yes||
 | Do you have a contributions policy? | Yes ||
 | Is your contributions' policy publicly available? | Yes ||
-| Do contributors keep the copyright/IP of their contributions? | Yes | MIT License|
-| Does your website and documentation clearly state the copyright owners of your software and documentation?| No ?? | MIT License, no copyrights right now |
+| Do contributors keep the copyright/IP of their contributions? | No | |
+| Does your website and documentation clearly state the copyright owners of your software and documentation?| No  | |
 | Does each of your source code files include a copyright statement?| No||
 | Does your website and documentation clearly state the licence of your software? | Yes | MIT|
 | Is your software released under an open source licence? | Yes ||
