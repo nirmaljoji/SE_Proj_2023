@@ -1,13 +1,16 @@
-### The Team
-|**UnityID**| **Name**|
-|nsjoji | Nirmal Sharon Joji|
-|||
+## The Team
+| Unity ID | Name               |
+| -------- | ------------------ |
+| akiran2  | Adithya Kiran      |
+| avisala  | Amrita Visalam     |
+| dmaurya  | Diksha Maurya      |
+| nsjoji   | Nirmal Sharon Joji |
 
 ## Scorecards
 
 - ### Slash Bot
-
-|Notes| score | evidence/comments/links |
+**Total Score:** /84
+|Notes| Score | Evidence/Comments/Links |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Video | \-- | \--|
 | Workload is spread over the whole team (one team member is often Xtimes more productive than the others..., but nevertheless, here is a track record that everyone is contributing a lot) | 2 | Link: [https://github.com/secheaper/slashbot/graphs/contributors?from=2021-11-14&to=2021-12-12&type=c](https://github.com/secheaper/slashbot/graphs/contributors?from=2021-11-14&to=2021-12-12&type=c)<br>Team member 1: 38 commits<br>Team member 2: 26 commits<br>Team member 3: 24 commits<br>Team member 4: 12 commits<br>Team member 5: 10 commits<br><br>Although the number of commits are varied, the number of significant lines of code modified are similar |
@@ -110,10 +113,11 @@
 | Do you make timely announcements of the deprecation of components, APIs, etc.?| No|
 
 - ### Calorie App
+**Total Score:** 64/84
 
 |Notes|Score |Evidence/Comments/Links|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Video|\-- |\--|
+|Video|3 |Present. Ref: https://drive.google.com/drive/folders/1M5vdCwH11C-MqK8X-Dkf5bPR0SaWA5Yc|
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others..., but nevertheless, here is a track record that everyone is contributing a lot)|| |
 |Number of commits|3 |162\. Ref: [https://github.com/deekay2310/calorieApp_server](https://github.com/deekay2310/calorieApp_server)|
 |Number of commits: by different people |2 |Commits by Dev: 36<br>Commits by Prakruthi: 38<br>Commits by Sunidhi: 26<br>Commits by Rohan: 18<br>Commits by Radhika: 9<br>Ref: [https://github.com/deekay2310/calorieApp_server/graphs/contributors](https://github.com/deekay2310/calorieApp_server/graphs/contributors)<br>Commit ratio slightly skewed |
@@ -218,7 +222,7 @@
 
 - ### Recipe Recommender
 
-|Notes|score|evidence/comments/links|
+|Notes|Score|Evidence/Comments/Links|
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Video|\--|\--|
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot)|3|Link: [https://github.com/het-patel99/Recipe_Recommender/graphs/contributors](https://github.com/het-patel99/Recipe_Recommender/graphs/contributors)<br>The median number of 33 , the higher lines of code for certain members is not part of SLOC and is conitrbuted by the uploading the dataset |
@@ -458,6 +462,7 @@
 |Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|3 ||
 |Evidence that the members of the team are working across multiple places in the code base|3 |Yes. Evidence in commit history. Ref: [https://github.com/bhavesh242/units_converter_extension/compare/master...NCSU-S:units_converter_extension:master](https://github.com/bhavesh242/units_converter_extension/compare/master...NCSU-S:units_converter_extension:master)|
 |Short release cycles |1 |Only 1 release made. Ref: [https://github.com/deekay2310/calorieApp_server/releases](https://github.com/deekay2310/calorieApp_server/releases)|
+| || |
 |ONLINE SUSTAINABILITY QUESTIONNAIRE|||
 |Question |Answer||
 |Does your website and documentation clearly describe the type of user who should use your software?|Yes ||
