@@ -9,6 +9,7 @@
 
 ## Part I: Scorecards
 
+### **Repo Link:** https://github.com/adi-kiran/BurnOut-HealthGoalsApp
 **Total Score:** 87/87
 
 | Notes                                                                                                                                                                                     | Score | Evidence/Comments/Links                                                                                                                                                                                                    |
