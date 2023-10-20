@@ -9,6 +9,8 @@
 
 ## Part I: Scorecards
 
+**Total Score:** 87/87
+
 | Notes                                                                                                                                                                                     | Score | Evidence/Comments/Links                                                                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Video                                                                                                                                                                                     | 3     |  https://www.youtube.com/watch?v=Ozbn9nNFr1Y                                                                                                                                                                                                                        |
@@ -41,7 +43,6 @@
 | Evidence that the members of the team are working across multiple places in the code base                                                                                                 | 3     | Commits exists from all members to the Frontend: https://github.com/adi-kiran/burnout-healthgoalsapp/tree/main/frontend/src/components and Backend: https://github.com/adi-kiran/burnout-healthgoalsapp/tree/main/backend                                                                                                                                                                                                                        |
 | Short release cycles                                                                                                                                                                      | 3     | Releases have been made frequently We have 4 releases. Ref: [https://github.com/adi-kiran/burnout-healthgoalsapp/releases](https://github.com/adi-kiran/burnout-healthgoalsapp/releases)                                    |
 
-**Total Score:** 87/87
 
 ### ONLINE SUSTAINABILITY QUESTIONNAIRE
 
