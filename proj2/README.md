@@ -119,3 +119,4 @@
 | Do you make timely announcements of the deprecation of components, APIs, etc.?                                                                                                                                                                    | Yes            | Chttps://github.com/adi-kiran/burnout-healthgoalsapp/discussions/50                              |
 
 ## Part II: Demo of Burnout - Health Goals App
+Link to the video: https://www.youtube.com/watch?v=Ozbn9nNFr1Y
