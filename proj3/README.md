@@ -9,6 +9,7 @@
 
 ## Part I: Scorecards
 
+### **Delta Evidence:** https://github.com/adi-kiran/career-flow/blob/main/Updates.md
 
 ### **Repo Link:** https://github.com/adi-kiran/career-flow
 **Total Score:** 87/87
